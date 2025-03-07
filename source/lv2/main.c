@@ -257,7 +257,7 @@ int main(){
     //			i = device_list_size;
     //	}
     //}
-    
+    printf("\n THE CAKE IS A LIE!!!!! \n\n");
     mount_all_devices();
     printf("\n * Looking for files on local media and TFTP...\n\n");
     for(;;){
