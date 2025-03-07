@@ -161,6 +161,7 @@ int main(){
 
     printf(" * sata hdd init\n");
     xenon_ata_init();
+    printf(" hawk tuah\n");
 
 #ifndef NO_DVD
     printf(" * sata dvd init\n");
